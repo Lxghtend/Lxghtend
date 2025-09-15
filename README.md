@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Lxghtend
-- 📫 How to reach me ... Lxghtend on discord.
+# Lxghtend
 
-<!---
-Lxghtend/Lxghtend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 18 years old 
+- Software Engineering major  
+- Developer (focus on Wizard101 tools/cheats)  
+- Interested in reverse engineering 
+- Discord: lxghtend
