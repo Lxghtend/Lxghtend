@@ -12,7 +12,7 @@ Building declarative Linux tooling, Wayland utilities, and game automation/rever
 - **[raid-utility-tools](https://github.com/Lxghtend/raid-utility-tools)** — Python automation, coordinate teleportation, and raid utility suite for Wizard101 built on `wizwalker`.
 - **[waybar-mic-monitor](https://github.com/Lxghtend/waybar-mic-monitor)** & **[clip-organizer](https://github.com/Lxghtend/clip-organizer)** — Lightweight Wayland desktop utilities packaged as Nix flakes.
 - **[replay-notify](https://github.com/Lxghtend/replay-notify)** — Go daemon hooking into OBS Studio WebSockets (`goobs`) to fire desktop notifications on replay buffer saves.
-- **[kopuz (fork)](https://github.com/Lxghtend/kopuz)** — Customized Rust terminal music player with Discord Rich Presence cover art and SoundCloud resolution tweaks.
+- **[kopuz (fork)](https://github.com/Lxghtend/kopuz)** — Personalized fork of an older version of rust music player.
 
 ---
 
